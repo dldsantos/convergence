@@ -2,6 +2,7 @@ node_modules
 public
 src/_eleventy/assets/css/dist.min.css
 src/_eleventy/assets/js/dist.min.js
+src/_eleventy/_data/config.json
 fathom_cache.json
 .env
 .cache
